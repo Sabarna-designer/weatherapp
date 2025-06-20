@@ -118,7 +118,7 @@ body
 }
 
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
     .card {
         width: 300px;
         margin-right: 95px;
@@ -185,4 +185,4 @@ body
         margin-left: 0;
         text-align: center;
     }
-}
+} */
